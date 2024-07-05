@@ -1,0 +1,12 @@
+C:\Users\hqdshka\source\repos\sportclub\sportclub\obj\Debug\sportclub.csproj.AssemblyReference.cache
+C:\Users\hqdshka\source\repos\sportclub\sportclub\obj\Debug\sportclub.Form1.resources
+C:\Users\hqdshka\source\repos\sportclub\sportclub\obj\Debug\sportclub.Properties.Resources.resources
+C:\Users\hqdshka\source\repos\sportclub\sportclub\obj\Debug\sportclub.csproj.GenerateResource.cache
+C:\Users\hqdshka\source\repos\sportclub\sportclub\obj\Debug\sportclub.csproj.CoreCompileInputs.cache
+C:\Users\hqdshka\source\repos\sportclub\sportclub\bin\Debug\sportclub.exe.config
+C:\Users\hqdshka\source\repos\sportclub\sportclub\bin\Debug\sportclub.exe
+C:\Users\hqdshka\source\repos\sportclub\sportclub\bin\Debug\sportclub.pdb
+C:\Users\hqdshka\source\repos\sportclub\sportclub\obj\Debug\sportclub.exe
+C:\Users\hqdshka\source\repos\sportclub\sportclub\obj\Debug\sportclub.pdb
+C:\Users\hqdshka\source\repos\sportclub\sportclub\obj\Debug\sportclub.Form2.resources
+C:\Users\hqdshka\source\repos\sportclub\sportclub\obj\Debug\sportclub.Form3.resources
